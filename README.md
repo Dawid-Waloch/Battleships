@@ -38,9 +38,8 @@ git clone https://github.com/ZiomeczekP/Statki.git
 2. Press ▶️ (F5) or select **Start Debugging**.
 3. Click **Start** in the app window to begin playing.
 ### 🕹️ Game Layout
-
-![Game Board1](Images/statki_ss.png)
-![Game Board2](Images/statki_ss2.png)
-
 > 🔹 **Left side** – Your board (ships placement)  
 > 🔸 **Right side** – Opponent's board (click to attack)
+
+![Game Board1](Images/Statki_ss.png)
+![Game Board2](Images/Statki_ss2.png)
